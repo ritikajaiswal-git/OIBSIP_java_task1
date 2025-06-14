@@ -24,3 +24,7 @@ Successfully created a functioning CLI-based online reservation system with basi
 3. Compile the code using:
    ```bash
    javac *.java
+   ## 🎥 Demo Video
+
+[Click here to watch the demo video](https://drive.google.com/file/d/1OgJhFvCkDX7YgTbpJjA664hG2uh1-wdl/view?usp=drive_link)
+
